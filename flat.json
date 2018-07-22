@@ -1,0 +1,56 @@
+[
+  {
+    "id": 145,
+    "name": "Botanical Garden, San Fernando La Union",
+    "imageUrl": "https://github.com/coilyn/senth2/blob/master/Flat1.jpg",
+    "price": 0,
+    "priceCurrency": "Philippine PESO",
+    "lat": 16.587330,
+    "lng": 120.365906
+  },
+  {
+    "id": 148,
+    "name": "Kamay na Bato, Luna La Union",
+    "imageUrl": "https://github.com/coilyn/senth2/blob/master/Flat2.jpg",
+    "price": 20,
+    "priceCurrency": "Philippine PESO",
+    "lat": 16.847237,
+    "lng": 120.351694
+  },
+  {
+    "id": 201,
+    "name": "Grape Farm, Bauang La Union!",
+    "imageUrl": "https://github.com/coilyn/senth2/blob/master/Flat3.jpg",
+    "price": 0,
+    "priceCurrency": "Philippine PESO",
+    "lat": 16.461095,
+    "lng": 120.333895
+  },
+  {
+    "id": 205,
+    "name": "Tangadan Falls, San Gabriel La Union",
+    "imageUrl": "https://github.com/coilyn/senth2/blob/master/Flat4.jpg",
+    "price": 115,
+    "priceCurrency": "Philippine PESO",
+    "lat": 16.643576,
+    "lng": 120.448793
+  },
+  {
+    "id": 210,
+    "name": "Surfing Capital of the North, San Juan La Union",
+    "imageUrl": "https://github.com/coilyn/senth2/blob/master/Flat5.jpg",
+    "price": 0,
+    "priceCurrency": "Philippine PESO",
+    "lat": 16.661871,
+    "lng": 120.324434
+  },
+  {
+    "id": 211,
+    "name": "Thunderbird Resort and Casino, Poro Point Sanfernando La Union",
+    "imageUrl": "https://github.com/coilyn/senth2/blob/master/Flat6.jpg",
+    "price": 1500,
+    "priceCurrency": "Philippine PESO",
+    "lat": 16.612236,
+    "lng": 120.284761
+  }
+]
